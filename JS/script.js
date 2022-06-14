@@ -78,5 +78,5 @@ function semi(){
     figura.classList.toggle("semi")
 }
 function cambiarpag(){
-    window.open("file:///C:/Users/APRENDIZ/Desktop/Datos/index.html")
+    window.open("https://jhonanderssonmedinarubiano.github.io/jhonandersonmedinarubiano3.github.io/l")
 }
